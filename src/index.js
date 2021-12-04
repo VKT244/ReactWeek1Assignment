@@ -3,12 +3,11 @@ import ReactDOM from 'react-dom';
 import '../node_modules/bootstrap/dist/css/bootstrap.css';
 import './index.css';
 import App from './App';
-import LoginForm from './components/Form';
-import Home from './components/Home';
+import MovieList from './components/MovieList';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-<Home />,
+<MovieList />,
   document.getElementById('root')
 );
 
