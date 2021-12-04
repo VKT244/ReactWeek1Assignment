@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: lightskyblue;
+  background-color: lightgreen;
 }
 
 code {
@@ -13,3 +13,20 @@ code {
     monospace;
 }
 
+.LogIn {
+  background-color: blue;
+  border-style: solid;
+}
+
+Header {
+  background-color: orange;
+}
+
+.form-control {
+  text-align:center;
+}
+
+.form-group {
+  text-align: center;
+  background-color: cornsilk;
+}
